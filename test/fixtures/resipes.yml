@@ -1,3 +1,17 @@
+# == Schema Information
+#
+# Table name: resipes
+#
+#  id          :bigint           not null, primary key
+#  cost        :integer
+#  ingredients :string
+#  making_time :string
+#  serves      :string
+#  title       :string
+#  created_at  :datetime         not null
+#  updated_at  :datetime         not null
+#
+
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 # This model initially had no columns defined. If you add columns to the

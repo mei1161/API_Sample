@@ -1,2 +1,0 @@
-class Resipe < ApplicationRecord
-end
