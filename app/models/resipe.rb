@@ -1,0 +1,2 @@
+class Resipe < ApplicationRecord
+end
